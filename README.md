@@ -17,3 +17,9 @@ Run below comment in terminal of this project root directory to install node pac
 Run below comment in terminal of this project root directory to start application
 
 `npm start`
+
+## Step 4
+
+Open below url to access node
+
+[Node](http://localhost:3000)
